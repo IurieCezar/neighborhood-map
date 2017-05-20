@@ -30,6 +30,7 @@ To make a change open the project using a text editor like Atom or Sublime-Text.
 * [Google Maps API](https://developers.google.com/maps/) - Used to visualize maps and accessing rich mapping features
 * [MediaWiki API](https://www.mediawiki.org/wiki/API:Main_page) - Used to get Wikipedia content
 * [Knockout JS](http://knockoutjs.com/) - Organizational web framework
+* HTML5
 
 ## Authors
 
