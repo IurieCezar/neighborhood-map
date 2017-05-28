@@ -40,7 +40,7 @@ To make a change open the project using a text editor like Atom or Sublime-Text.
 
 * Knockoutjs documentation
 * Bootstrap documentation
-* Google Maps Api ocumentation
+* Google Maps API documentation
 * MediaWiki documentation
 * Udacity Online Courses
 * Mozilla Developer Network
