@@ -1,10 +1,12 @@
-![neighborhood-map](http://i.imgur.com/nqyH6Jf.png)
-
 # neighborhood-map
 
 This is a single page application featuring a map of River North neighborhood in Chicago and a list of restaurants.
 A filter option is provided, that uses an input field to filter both the list view and the map markers displayed by default on load. The list view and the markers update accordingly in real time.
 Extra functionality added using Google and MediaWiki APIs to provide information when a map marker or list view entry is clicked. Wikipedia links will be displayed when a restaurant in the list is clicked on. A map marker will animate when clicked on the list item associated with it or the map marker itself is selected.
+
+
+<img width="1435" alt="neighborhood-map" src="https://cloud.githubusercontent.com/assets/19762832/26764941/f8657622-4936-11e7-8986-2be733f854aa.png">
+
 
 ## Getting Started
 
