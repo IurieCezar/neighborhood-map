@@ -1,3 +1,5 @@
+![neighborhood-map](http://i.imgur.com/nqyH6Jf.png)
+
 # neighborhood-map
 
 This is a single page application featuring a map of River North neighborhood in Chicago and a list of restaurants.
