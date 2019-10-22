@@ -13,7 +13,7 @@ Extra functionality added using Google and MediaWiki APIs to provide information
 ### How to run the project
 * Clone the repository to your local machine
 
-`git clone https://github.com/IurieCezar/neighborhood-map`
+`git clone https://github.com/iuriepopovici/neighborhood-map`
 
 * Navigate to the directory that contains the code
 
