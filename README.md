@@ -10,12 +10,17 @@ Extra functionality added using Google and MediaWiki APIs to provide information
 
 ## Getting Started
 
+### Prerequisites
+For this project, you will need a Google account. Sign up for a free account if you don't have one. Create a new project and enable billing for it on the Google Cloud Platform. Enable the Maps JavaScript API and Places API. Create an API key and save it on your machine. You will need it later.
+
 ### How to run the project
 * Clone the repository to your local machine
 
 `git clone https://github.com/iuriepopovici/neighborhood-map`
 
 * Navigate to the directory that contains the code
+
+* Replace [GOOGLE_API_KEY] in neighborhood-map/index.html with the api key from your google account
 
 * Within the project directory find `index.html` file and double-click on it
 
